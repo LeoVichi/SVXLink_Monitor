@@ -1,0 +1,6 @@
+psutil
+adafruit-circuitpython-ssd1306
+pillow
+board
+digitalio
+
