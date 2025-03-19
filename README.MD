@@ -12,7 +12,7 @@ Este projeto exibe informações do sistema e status do SVXLink em um display OL
 
 Clone este repositório:
 ```sh
-git clone https://github.com/seu-usuario/interlink-oled-monitor.git
+git clone https://github.com/LeoVichi/SVXLink_Monitor.git
 cd interlink-oled-monitor
 ```
 
@@ -49,5 +49,5 @@ sudo reboot
 ```
 
 ### Autor
-Desenvolvido por [Leonardo Vichi](https://github.com/seu-usuario).
+Desenvolvido por [Leonardo Vichi](https://github.com/LeoVichi).
 
